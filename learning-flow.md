@@ -22,4 +22,7 @@ Learn by Doing (Big)
 1. Active recall (AI generated quizes or pre-made quizes)
 2. Space repitition
 
+Prompts:
+Guide me through a socratic dialogue on "x". Ask questions that will help me uncover the deeper layers of this idea and refine my understanding step-by-step.
+
 
