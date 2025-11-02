@@ -1,1 +1,2 @@
-[Reference 1](https://machinelearningmastery.com/understanding-rag-part-i-why-its-needed/)
+[What is RAG](https://machinelearningmastery.com/understanding-rag-part-i-why-its-needed/)
+[Classic RAG Architecture](https://machinelearningmastery.com/understanding-rag-part-ii-how-classic-rag-works/) 
