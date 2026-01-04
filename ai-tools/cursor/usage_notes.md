@@ -23,3 +23,7 @@ Now you can say implement the project... diferent instances working in different
 worktree json ... setup actions e.g. if you want each one to get .env file copied from the root path. also in .cursor 
 
 Review tab.. shows full diff of all files. Great to review everything. 
+
+CMD + shift + v to copy content with back reference to specific file... 
+
+

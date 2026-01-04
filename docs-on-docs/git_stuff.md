@@ -1,0 +1,6 @@
+
+Git ... 
+-p helps mini review
+ changes  -A adds new files
+ -m for commit... 
+ git checkout -b 
